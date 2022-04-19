@@ -1,34 +1,54 @@
  .text-in-header1{
-     margin-left: 340px;
+     margin-left: 30px;
      color: rgb(255, 255, 255);
      font-size: 35px;
-     margin-top: 20px;
+     margin-top: 450px;
      position: absolute;
      z-index: 2;
      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
  }
  .text-in-header2{
-    margin-left: 350px;
+    margin-left: 300px;
     color: rgb(255, 255, 255);
     font-size: 35px;
-    margin-top: 20px;
+    margin-top: 660px;
     position: absolute;
     z-index: 2;
-    margin-left: 600px;
+    margin-left: 50px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
 }
 .text-in-header3{
-    margin-left: 1000px;
+    margin-left: 25px;
     color: rgb(255, 255, 255);
     font-size: 35px;
-    margin-top: 20px;
+    margin-top: 220px;
     position: absolute;
     z-index: 2;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     
 
+}
+
+
+.text-in-header4{
+    margin-left: 30px;
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    margin-top: 20px;
+    position: absolute;
+    z-index: 2;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.h2-18{
+    position: absolute;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 1070px;
+    top: -10;
 }
 
 
@@ -57,6 +77,13 @@
     color: rgb(255, 255, 255);
     font-size: 45px;
     text-shadow: rgb(255, 255, 255) 3px 2px;}
+
+
+    .text-in-header4:hover{
+    
+        color: rgb(255, 255, 255);
+        font-size: 45px;
+        text-shadow: rgb(255, 255, 255) 3px 2px;}
     
 
 
@@ -104,7 +131,7 @@
 }
 .left-div{
     width: 200px;
-    height: 1250px;
+    height: 1170px;
     background-color: rgb(46, 46, 46);
     position: absolute;
     top: 0%;
@@ -221,6 +248,38 @@
 
 /*Очивки*/
 
+
+
+.img-6{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 150px;
+}
+
+.img-6:hover{
+    width: 140px;
+    height: 140px;
+    
+}
+
+.img-7{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+.img-7:hover{
+    width: 140px;
+    height: 140px;
+    
+}
+
+
+
 .div-1{
     background-color: rgb(96, 255, 131);
     height: 50px;
@@ -235,13 +294,14 @@
 }
 .div-5{
     background-color: rgb(255, 235, 180);
-    border: rgb(163, 65, 0) solid 5px;
+    border: rgb(226, 90, 0) solid 5px;
     width: 500px;
     height: 150px;
-    border-radius: 100px;
+    border-radius: 50px;
     text-align: center;
-    margin-top: 170px;
-    margin-left: 80px;
+    margin-top: 120px;
+    margin-left: 100px;
+    
 
    
 }
@@ -249,24 +309,27 @@
 
 .div-6{
     background-color: rgb(190, 190, 190);
-    border: rgb(94, 94, 94) solid 5px;
+    border: rgb(139, 139, 139) solid 5px;
     width: 500px;
     height: 150px;
-    border-radius: 100px;
+    border-radius: 50px;
     text-align: center;
-    margin-top: 170px;
-    margin-left: 80px;}
+    margin-top: 120px;
+    margin-left: 100px;
+    }
+    
 
 
     .div-7{
-        background-color: rgb(247, 255, 133);
+        background-color: rgb(244, 255, 93);
         border: rgb(255, 251, 0) solid 5px;
         width: 500px;
         height: 150px;
-        border-radius: 100px;
+        border-radius: 50px;
         text-align: center;
-        margin-top: 170px;
-        margin-left: 80px;}
+        margin-top: 120px;
+        margin-left: 100px;
+        }
 
         
 .h2-2{
@@ -275,10 +338,11 @@
 .b-1{
     font-size: 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: o;
 }
 .img3{
     position: absolute;
-    top: 8250;
+    top: 10850;
     left: 70;
 }
 .img-8{
@@ -327,6 +391,12 @@
     width: 200px;
     left: -50;
 }
+
+
+
+/*1*/
+
+
 /*Записаться*/
 .input{
     height: 50px;
@@ -418,5 +488,142 @@
     margin-top: 70px;
     font-size: 40px;
 }
+
+/*Лидеры*/
+
+.div-201{
+    background-color: rgb(147, 255, 147);
+    border: rgb(43, 255, 0) solid 4px;
+    text-align: center;
+    border-radius: 30px;
+}
+.h2-201{
+    color: rgb(255, 255, 255);
+    margin-top: 30px;
+   
+    
+}
+
+
+/*лидеры*/
+
+
+
+.div-202{
+    background-color: rgba(255, 234, 115, 0.87);
+    border: rgb(255, 187, 0) solid 5px;
+    text-align: center;
+    width: 900px;
+    position: absolute;
+    height: 100px;
+    border-radius: 40px;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+
+/*серебро*/
+
+
+.div-203{
+    background-color: rgba(211, 211, 211, 0.87);
+    border: rgb(158, 158, 158) solid 5px;
+    text-align: center;
+    width: 900px;
+    position: absolute;
+    height: 100px;
+    border-radius: 40px;
+    margin-top: 240px;
+    margin-left: 50px;
+}
+
+/*бронза*/
+
+
+.div-204{
+    background-color: rgba(255, 211, 115, 0.87);
+    border: rgb(255, 123, 0) solid 5px;
+    text-align: center;
+    width: 900px;
+    position: absolute;
+    height: 100px;
+    border-radius: 40px;
+    margin-top: 400px;
+    margin-left: 50px;
+}
+
+/*конец*/
+
+.b-201{
+    color: black;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.img-1{
+    width: 80px;
+    left: 50;
+    position: absolute;
+   
+}
+
+.img-2{
+    width: 110px;
+    left: 44;
+    position: absolute;
+    
+   
+}
+
+
+.img-2{
+    width: 110px;
+    left: 44;
+    position: absolute;
+    
+   
+}
+
+
+.img-2{
+    width: 110px;
+    left: 44;
+    position: absolute;
+    
+   
+}
+
+
+.img-2{
+    width: 110px;
+    left: 44;
+    position: absolute;
+    
+   
+}
+
+.img-3{
+    width: 85px;
+    left: 47;
+    position: absolute;
+    margin-top: 8px;
+    
+   
+}
+
+.h1-201{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 630px;
+}
+
+.big-text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 200px;
+}
+
+
+
 
 
